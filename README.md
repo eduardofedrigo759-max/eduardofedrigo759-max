@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="./s%20psd%20hunter%20x%20hunter%20GIF.gif" width="700">
 
-<!--
-**eduardofedrigo759-max/eduardofedrigo759-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+# 👨‍💻 Eduardo | Estudante de T.I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🐍 Estudante de Python | 💻 Tecnologia | 🚀 Aprendendo programação
+</p>
+
+---
+
+## 👋 Sobre mim
+
+Olá! Meu nome é **Eduardo**, tenho **18 anos** e estou no meu primeiro ano estudando T.I. no curso municipal **Fábrica de Programadores**.
+
+Atualmente estou focado em aprender **Python**, lógica de programação e desenvolvimento de projetos.
+
+> **"Ninguém tem inimigos."**
+
+---
+
+## 🐍 Atualmente estudando
+
+- Python 🐍
+- Lógica de programação 🧠
+- Git e GitHub 🔧
+- Streamlit 🌐
+- Desenvolvimento de projetos 💻
